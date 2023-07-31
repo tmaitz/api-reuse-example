@@ -1,0 +1,5 @@
+rootProject.name = 'api-reuse-example'
+include 'book-service'
+include 'book-service-api'
+include 'book-service-client'
+include 'publisher-service'
